@@ -1,5 +1,6 @@
 # DirtyCow
-Dirtycow exploit for both 32 and 64-bit 
+DirtyCow (CVE-2016-5195) is a privilege escalation vulnerability in the Linux Kernel
+This exploit is for both 32 and 64-bit 
 
 # Usage Example For 32 Bit
 
